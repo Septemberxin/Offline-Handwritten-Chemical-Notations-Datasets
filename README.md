@@ -9,15 +9,13 @@ This project contains three offline handwritten chemical notations datasets:
 
 ## Handwritten Chemical Cyclic Compound Structures Dataset 
 
-This dataset consists of 2000 one-ring structure images and 1000 two-ring structure images. 
-
 ### Papers
 The dataset is published in the following papers.
 
 * A Component-detection-based Approach for Interpreting Off-line Handwritten Chemical Cyclic Compound Structures. ***TALE 2021***  ([paper](https://ieeexplore.ieee.org/abstract/document/9678874)).
 
 ### Download
-You can download the dataset from [baiduyun]() (code:).
+To be released soon.
 
 
 ## Handwritten Chemical Formulae Dataset 
