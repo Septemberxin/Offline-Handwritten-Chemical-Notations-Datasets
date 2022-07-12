@@ -46,7 +46,7 @@ You can download the dataset from [baiduyun]() (code:).
 
 ## Citation
 
-The datasets is only free for academic research purposes, if you find it useful in your research, please consider citing:
+The datasets are only free for academic research purposes, if you find them useful in your research, please consider citing:
 ```
 @inproceedings{wang2021component,
   title={A Component-detection-based Approach for Interpreting Off-line Handwritten Chemical Cyclic Compound Structures},
