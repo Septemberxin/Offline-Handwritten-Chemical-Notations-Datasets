@@ -39,7 +39,7 @@ The dataset is published in the following papers.
 * Recognition of Handwritten Chemical Organic Ring Structure Symbols Using Convolutional Neural Networks. ***ICDARW 2019***  ([paper](https://ieeexplore.ieee.org/abstract/document/8893085)).
 
 ### Download
-You can download the dataset from [baiduyun](https://pan.baidu.com/s/1vqsRiJJVr5G0JUAxdQjw6w) (code:qele).
+You can download the dataset from [baiduyun](https://pan.baidu.com/s/1vqsRiJJVr5G0JUAxdQjw6w) (code: qele).
 
 
 ## Citation
