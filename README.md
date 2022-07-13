@@ -26,7 +26,7 @@ The dataset is published in the following papers.
 * An End-to-end Trainable System for Offline Handwritten Chemical Formulae Recognition. ***ICDAR 2019***  ([paper](https://ieeexplore.ieee.org/abstract/document/8977958)).
 
 ### Download
-You can download the dataset from [baiduyun]() (code:).
+You can download the dataset from [baiduyun](https://pan.baidu.com/s/1nLhzYF7W17Jgv8qlXW405A) (code: 0njz).
 
 
 ## Handwritten Chemical Organic Ring Structure Symbols Dataset 
