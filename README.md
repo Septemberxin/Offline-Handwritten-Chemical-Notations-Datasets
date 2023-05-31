@@ -15,7 +15,7 @@ The dataset is published in the following papers.
 * A Component-detection-based Approach for Interpreting Off-line Handwritten Chemical Cyclic Compound Structures. ***TALE 2021***  ([paper](https://ieeexplore.ieee.org/abstract/document/9678874)).
 
 ### Download
-You can download the dataset from [baiduyun](https://pan.baidu.com/s/1nLhzYF7W17Jgv8qlXW405A) (code: 0njz)..
+You can download the dataset from [baiduyun](https://pan.baidu.com/s/1bdsj1hQqSPxlZszdX3Gafg) (code: uonn).
 
 
 ## Handwritten Chemical Formulae Dataset 
